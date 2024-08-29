@@ -1,7 +1,9 @@
 # Netflix GPT
 
 -npx create-react-app project name
+<br>
 -Configured Tailwing CSS
+<br>
 -push code to github (create respository)
 -Header
 -Routing of app
